@@ -49,6 +49,3 @@ console.log(timeToInt('18:00:05'));  // -> 64805
 console.log(timeToInt('6:00 PM'));  // -> 64800
 console.log(timeToInt('6:00:05 AM'));  // -> 21605
 ```
-
-# License
-MIT (c) Yury Dymov
